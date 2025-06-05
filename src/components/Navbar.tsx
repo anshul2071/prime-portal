@@ -107,7 +107,7 @@ const NavBar: React.FC = () => {
                   <span>Login</span>
                 </Button>
               </NavLink>
-              <NavLink to="/register">
+              <NavLink to="/login">
                 <Button size="sm" className="gap-1.5">
                   <UserPlus className="h-4 w-4" />
                   <span>Get Started</span>
